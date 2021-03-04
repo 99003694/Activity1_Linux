@@ -1,1 +1,1 @@
-# Activity1_Linux
+# Activities pertaining to Linux OS and Programming
